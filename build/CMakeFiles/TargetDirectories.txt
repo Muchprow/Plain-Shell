@@ -1,0 +1,3 @@
+D:/Plain/build/CMakeFiles/Plain.dir
+D:/Plain/build/CMakeFiles/edit_cache.dir
+D:/Plain/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/Plain/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\Plain.dir\\src\\main.cpp.obj -c D:\\Plain\\src\\main.cpp",
+  "file": "D:/Plain/src/main.cpp",
+  "output": "D:/Plain/build/CMakeFiles/Plain.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Plain/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\Plain.dir\\src\\Dictionary.cpp.obj -c D:\\Plain\\src\\Dictionary.cpp",
+  "file": "D:/Plain/src/Dictionary.cpp",
+  "output": "D:/Plain/build/CMakeFiles/Plain.dir/src/Dictionary.cpp.obj"
+},
+{
+  "directory": "D:/Plain/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\Plain.dir\\src\\Shell.cpp.obj -c D:\\Plain\\src\\Shell.cpp",
+  "file": "D:/Plain/src/Shell.cpp",
+  "output": "D:/Plain/build/CMakeFiles/Plain.dir/src/Shell.cpp.obj"
+},
+{
+  "directory": "D:/Plain/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\Plain.dir\\src\\AddonManager.cpp.obj -c D:\\Plain\\src\\AddonManager.cpp",
+  "file": "D:/Plain/src/AddonManager.cpp",
+  "output": "D:/Plain/build/CMakeFiles/Plain.dir/src/AddonManager.cpp.obj"
+},
+{
+  "directory": "D:/Plain/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\Plain.dir\\src\\HistoryManager.cpp.obj -c D:\\Plain\\src\\HistoryManager.cpp",
+  "file": "D:/Plain/src/HistoryManager.cpp",
+  "output": "D:/Plain/build/CMakeFiles/Plain.dir/src/HistoryManager.cpp.obj"
+},
+{
+  "directory": "D:/Plain/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\Plain.dir\\src\\PackManager.cpp.obj -c D:\\Plain\\src\\PackManager.cpp",
+  "file": "D:/Plain/src/PackManager.cpp",
+  "output": "D:/Plain/build/CMakeFiles/Plain.dir/src/PackManager.cpp.obj"
+}
+]
