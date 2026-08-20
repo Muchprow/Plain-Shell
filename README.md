@@ -39,7 +39,7 @@ If you like **Plain Shell** and want to support its development, you can donate 
 
 ### Build Steps, Quick Start & Usage
 ```bash
-git clone [https://github.com/your-username/plain-shell.git](https://github.com/your-username/plain-shell.git)
+git clone [https://github.com/Muchprow/Plain-Shell.git](https://github.com/Muchprow/Plain-Shell.git)
 cd plain-shell
 mkdir build && cd build
 cmake ..
